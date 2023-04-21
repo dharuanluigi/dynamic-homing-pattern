@@ -10,7 +10,9 @@
 
 Este repositório tem o intuito de mostrar informações mais detalhadas do design pattern que chamei de Dynamic Homing, usado para desenvolver chatbots que usam plataformas orientadas a microserviços. Criei esse Pattern com o intuito e preocupação na padronização e qualidade de desenvolvimento de chatbots que utilizam Blip. Neste contexto, o uso e distribuição é totalmente aberto e para a comunidade, alterações e modificações são muito bem-vindas, desde que sigam e mentenham a mesma licença de uso.
 
-Criado por mim com muito 💜.
+<div style="display: flex;">
+   <span style="margin: 0 auto;">Criado por mim com muito 💜.</span>
+</div>
 
 ## O que é?
 
