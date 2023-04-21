@@ -14,7 +14,7 @@ Criado por mim com muito 💜.
 
 ## O que é?
 
-Caso você tenha chego aqui e ainda não leu [meu artigo do Medium](https://medium.com/@dharuanluigi/dynamic-homing-pattern-o-design-pattern-para-chatbot-introdu%C3%A7%C3%A3o-420a3f48fdb9), onde eu apresento detalhes sobre esse Pattern, sugiro que tire um tempinho antes de seguir lendo e consumindo diretamente deste repositório. Mas caso queira continuar, aqui no Github na [Aba de wiki](https://github.com/dharuanluigi/dynamic-homing-pattern/wiki), o conteúdo também pode ser encontrado. Ele é basicamente um overview mais geral do que iremos encontrar aqui no repositório. Todo o processo com detalhes técnicos também estarão dentro da aba wiki aqui no guithub. Basta acessar a respectiva sessão para acessar os detalhes.
+Caso você tenha chego aqui e ainda não leu [meu artigo do Medium](https://medium.com/@dharuanluigi/dynamic-homing-pattern-o-design-pattern-para-chatbot-introdu%C3%A7%C3%A3o-420a3f48fdb9), onde eu apresento detalhes sobre esse Pattern, sugiro que tire um tempinho antes de seguir lendo e consumindo diretamente deste repositório. Mas caso queira continuar, aqui no Github na [Aba de wiki](https://github.com/dharuanluigi/dynamic-homing-pattern/wiki/Overview), o conteúdo também pode ser encontrado. Ele é basicamente um overview mais geral do que iremos encontrar aqui no repositório. Todo o processo com detalhes técnicos também estarão dentro da aba wiki aqui no guithub. Basta acessar a respectiva sessão para acessar os detalhes.
 
 ## Como usar?
 
