@@ -35,6 +35,8 @@ E também é necessário ter noções básicas da ferramenta, que podem ser adqu
    - **Skill principal: main** _(marcar a opção que este é meu chatbot principal)_
    - **Skill de erros: errors**
 
+Pronto, estã tudo pronto para você testar a primeira implementação do Pattern.
+
 ## Lembrete
 
 Na fase atual dessa implementação, abordo exclusivamente apenas o tipo de redirecionamento do tipo O.D.R.
